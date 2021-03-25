@@ -1,0 +1,14 @@
+D:\Git\MobileStore_CRUD\MobileStore.Service\bin\Debug\netcoreapp3.1\MobileStore.Service.deps.json
+D:\Git\MobileStore_CRUD\MobileStore.Service\bin\Debug\netcoreapp3.1\MobileStore.Service.dll
+D:\Git\MobileStore_CRUD\MobileStore.Service\bin\Debug\netcoreapp3.1\MobileStore.Service.pdb
+D:\Git\MobileStore_CRUD\MobileStore.Service\obj\Debug\netcoreapp3.1\MobileStore.Service.csprojAssemblyReference.cache
+D:\Git\MobileStore_CRUD\MobileStore.Service\obj\Debug\netcoreapp3.1\MobileStore.Service.AssemblyInfoInputs.cache
+D:\Git\MobileStore_CRUD\MobileStore.Service\obj\Debug\netcoreapp3.1\MobileStore.Service.AssemblyInfo.cs
+D:\Git\MobileStore_CRUD\MobileStore.Service\obj\Debug\netcoreapp3.1\MobileStore.Service.csproj.CoreCompileInputs.cache
+D:\Git\MobileStore_CRUD\MobileStore.Service\obj\Debug\netcoreapp3.1\MobileStore.Service.dll
+D:\Git\MobileStore_CRUD\MobileStore.Service\obj\Debug\netcoreapp3.1\MobileStore.Service.pdb
+D:\Git\MobileStore_CRUD\MobileStore.Service\bin\Debug\netcoreapp3.1\MobileStore.Domain.dll
+D:\Git\MobileStore_CRUD\MobileStore.Service\bin\Debug\netcoreapp3.1\MobileStore.Helper.dll
+D:\Git\MobileStore_CRUD\MobileStore.Service\bin\Debug\netcoreapp3.1\MobileStore.Domain.pdb
+D:\Git\MobileStore_CRUD\MobileStore.Service\bin\Debug\netcoreapp3.1\MobileStore.Helper.pdb
+D:\Git\MobileStore_CRUD\MobileStore.Service\obj\Debug\netcoreapp3.1\MobileStore.Service.csproj.CopyComplete

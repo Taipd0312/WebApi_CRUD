@@ -1,0 +1,9 @@
+D:\Git\MobileStore_CRUD\MobileStore.Helper\bin\Debug\netcoreapp3.1\MobileStore.Helper.deps.json
+D:\Git\MobileStore_CRUD\MobileStore.Helper\bin\Debug\netcoreapp3.1\MobileStore.Helper.dll
+D:\Git\MobileStore_CRUD\MobileStore.Helper\bin\Debug\netcoreapp3.1\MobileStore.Helper.pdb
+D:\Git\MobileStore_CRUD\MobileStore.Helper\obj\Debug\netcoreapp3.1\MobileStore.Helper.csprojAssemblyReference.cache
+D:\Git\MobileStore_CRUD\MobileStore.Helper\obj\Debug\netcoreapp3.1\MobileStore.Helper.AssemblyInfoInputs.cache
+D:\Git\MobileStore_CRUD\MobileStore.Helper\obj\Debug\netcoreapp3.1\MobileStore.Helper.AssemblyInfo.cs
+D:\Git\MobileStore_CRUD\MobileStore.Helper\obj\Debug\netcoreapp3.1\MobileStore.Helper.csproj.CoreCompileInputs.cache
+D:\Git\MobileStore_CRUD\MobileStore.Helper\obj\Debug\netcoreapp3.1\MobileStore.Helper.dll
+D:\Git\MobileStore_CRUD\MobileStore.Helper\obj\Debug\netcoreapp3.1\MobileStore.Helper.pdb
