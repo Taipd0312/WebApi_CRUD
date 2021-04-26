@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eIItNgI8WJ6WqE9LxoGJHdAZ/RFXYx5JhAlVqJh1lKUeDSn/KeD5W5SyBfUKhE12qmsAjU8OK9SyPzf5qYUVaw==",
+  "dgSpecHash": "jVFlRwopp8FXTVraaohxhfZvhKrCgIVxbLOdRqtXCc8u2+z99FpDrCnA7pk7HS3kfQi5pprCoMncXZkhXETb5g==",
   "success": true,
-  "projectFilePath": "D:\\Git\\MobileStore_CRUD\\MobileStore.Helper\\MobileStore.Helper.csproj",
+  "projectFilePath": "C:\\Users\\tai.phan\\source\\repos\\WebApi-CRUD\\WebApi_CRUD\\MobileStore.Helper\\MobileStore.Helper.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

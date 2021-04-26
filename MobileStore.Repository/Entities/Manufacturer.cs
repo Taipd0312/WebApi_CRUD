@@ -2,6 +2,6 @@
 {
     public class Manufacturer : BaseEntity
     {
-        public string Logo { get; set; }
+        public Photo Logo { get; set; }
     }
 }

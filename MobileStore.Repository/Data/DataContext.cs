@@ -10,11 +10,13 @@ namespace MobileStore.Domain.Data
     {
         public DataContext(DbContextOptions options) : base(options)
         {
+            Database.
         }
 
         public DbSet<Item> Items { get; set; }
         public DbSet<Manufacturer> Manufacturers { get; set; }
         public DbSet<ItemType> Types { get; set; }
+        public DbSet<Photo> Photos { get; set; }
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {

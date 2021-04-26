@@ -5740,19 +5740,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ASUS\\.nuget\\packages\\": {}
+    "C:\\Users\\tai.phan\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Git\\MobileStore_CRUD\\MobileStore.Service\\MobileStore.Service.csproj",
+      "projectUniqueName": "C:\\Users\\tai.phan\\source\\repos\\WebApi-CRUD\\WebApi_CRUD\\MobileStore.Service\\MobileStore.Service.csproj",
       "projectName": "MobileStore.Service",
-      "projectPath": "D:\\Git\\MobileStore_CRUD\\MobileStore.Service\\MobileStore.Service.csproj",
-      "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "D:\\Git\\MobileStore_CRUD\\MobileStore.Service\\obj\\",
+      "projectPath": "C:\\Users\\tai.phan\\source\\repos\\WebApi-CRUD\\WebApi_CRUD\\MobileStore.Service\\MobileStore.Service.csproj",
+      "packagesPath": "C:\\Users\\tai.phan\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\tai.phan\\source\\repos\\WebApi-CRUD\\WebApi_CRUD\\MobileStore.Service\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\tai.phan\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5766,8 +5766,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "D:\\Git\\MobileStore_CRUD\\MobileStore.Repository\\MobileStore.Domain.csproj": {
-              "projectPath": "D:\\Git\\MobileStore_CRUD\\MobileStore.Repository\\MobileStore.Domain.csproj"
+            "C:\\Users\\tai.phan\\source\\repos\\WebApi-CRUD\\WebApi_CRUD\\MobileStore.Repository\\MobileStore.Domain.csproj": {
+              "projectPath": "C:\\Users\\tai.phan\\source\\repos\\WebApi-CRUD\\WebApi_CRUD\\MobileStore.Repository\\MobileStore.Domain.csproj"
             }
           }
         }
@@ -5796,7 +5796,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

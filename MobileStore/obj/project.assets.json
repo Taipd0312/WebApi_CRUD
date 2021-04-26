@@ -5939,19 +5939,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ASUS\\.nuget\\packages\\": {}
+    "C:\\Users\\tai.phan\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Git\\MobileStore_CRUD\\MobileStore\\MobileStore.csproj",
+      "projectUniqueName": "C:\\Users\\tai.phan\\source\\repos\\WebApi-CRUD\\WebApi_CRUD\\MobileStore\\MobileStore.csproj",
       "projectName": "MobileStore",
-      "projectPath": "D:\\Git\\MobileStore_CRUD\\MobileStore\\MobileStore.csproj",
-      "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "D:\\Git\\MobileStore_CRUD\\MobileStore\\obj\\",
+      "projectPath": "C:\\Users\\tai.phan\\source\\repos\\WebApi-CRUD\\WebApi_CRUD\\MobileStore\\MobileStore.csproj",
+      "packagesPath": "C:\\Users\\tai.phan\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\tai.phan\\source\\repos\\WebApi-CRUD\\WebApi_CRUD\\MobileStore\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\tai.phan\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5965,8 +5965,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\Git\\MobileStore_CRUD\\MobileStore.Service\\MobileStore.Service.csproj": {
-              "projectPath": "D:\\Git\\MobileStore_CRUD\\MobileStore.Service\\MobileStore.Service.csproj"
+            "C:\\Users\\tai.phan\\source\\repos\\WebApi-CRUD\\WebApi_CRUD\\MobileStore.Service\\MobileStore.Service.csproj": {
+              "projectPath": "C:\\Users\\tai.phan\\source\\repos\\WebApi-CRUD\\WebApi_CRUD\\MobileStore.Service\\MobileStore.Service.csproj"
             }
           }
         }
@@ -6004,7 +6004,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

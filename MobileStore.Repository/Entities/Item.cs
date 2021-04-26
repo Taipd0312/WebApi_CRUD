@@ -11,6 +11,6 @@ namespace MobileStore.Domain.Entities
         public string ManufacturerId { get; set; }
         public int Total { get; set; }
         public int Cost { get; set; }
-        public ICollection<string> Images { get; set; }
+        public ICollection<Photo> Images { get; set; }
     }
 }

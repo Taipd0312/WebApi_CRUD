@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Git\\MobileStore_CRUD\\MobileStore\\MobileStore.csproj": {}
+    "C:\\Users\\tai.phan\\source\\repos\\WebApi-CRUD\\WebApi_CRUD\\MobileStore\\MobileStore.csproj": {}
   },
   "projects": {
-    "D:\\Git\\MobileStore_CRUD\\MobileStore.Helper\\MobileStore.Helper.csproj": {
+    "C:\\Users\\tai.phan\\source\\repos\\WebApi-CRUD\\WebApi_CRUD\\MobileStore.Helper\\MobileStore.Helper.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Git\\MobileStore_CRUD\\MobileStore.Helper\\MobileStore.Helper.csproj",
+        "projectUniqueName": "C:\\Users\\tai.phan\\source\\repos\\WebApi-CRUD\\WebApi_CRUD\\MobileStore.Helper\\MobileStore.Helper.csproj",
         "projectName": "MobileStore.Helper",
-        "projectPath": "D:\\Git\\MobileStore_CRUD\\MobileStore.Helper\\MobileStore.Helper.csproj",
-        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "D:\\Git\\MobileStore_CRUD\\MobileStore.Helper\\obj\\",
+        "projectPath": "C:\\Users\\tai.phan\\source\\repos\\WebApi-CRUD\\WebApi_CRUD\\MobileStore.Helper\\MobileStore.Helper.csproj",
+        "packagesPath": "C:\\Users\\tai.phan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tai.phan\\source\\repos\\WebApi-CRUD\\WebApi_CRUD\\MobileStore.Helper\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\tai.phan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,21 +54,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Git\\MobileStore_CRUD\\MobileStore.Repository\\MobileStore.Domain.csproj": {
+    "C:\\Users\\tai.phan\\source\\repos\\WebApi-CRUD\\WebApi_CRUD\\MobileStore.Repository\\MobileStore.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Git\\MobileStore_CRUD\\MobileStore.Repository\\MobileStore.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\tai.phan\\source\\repos\\WebApi-CRUD\\WebApi_CRUD\\MobileStore.Repository\\MobileStore.Domain.csproj",
         "projectName": "MobileStore.Domain",
-        "projectPath": "D:\\Git\\MobileStore_CRUD\\MobileStore.Repository\\MobileStore.Domain.csproj",
-        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "D:\\Git\\MobileStore_CRUD\\MobileStore.Repository\\obj\\",
+        "projectPath": "C:\\Users\\tai.phan\\source\\repos\\WebApi-CRUD\\WebApi_CRUD\\MobileStore.Repository\\MobileStore.Domain.csproj",
+        "packagesPath": "C:\\Users\\tai.phan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tai.phan\\source\\repos\\WebApi-CRUD\\WebApi_CRUD\\MobileStore.Repository\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\tai.phan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -82,8 +82,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "D:\\Git\\MobileStore_CRUD\\MobileStore.Helper\\MobileStore.Helper.csproj": {
-                "projectPath": "D:\\Git\\MobileStore_CRUD\\MobileStore.Helper\\MobileStore.Helper.csproj"
+              "C:\\Users\\tai.phan\\source\\repos\\WebApi-CRUD\\WebApi_CRUD\\MobileStore.Helper\\MobileStore.Helper.csproj": {
+                "projectPath": "C:\\Users\\tai.phan\\source\\repos\\WebApi-CRUD\\WebApi_CRUD\\MobileStore.Helper\\MobileStore.Helper.csproj"
               }
             }
           }
@@ -146,21 +146,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Git\\MobileStore_CRUD\\MobileStore.Service\\MobileStore.Service.csproj": {
+    "C:\\Users\\tai.phan\\source\\repos\\WebApi-CRUD\\WebApi_CRUD\\MobileStore.Service\\MobileStore.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Git\\MobileStore_CRUD\\MobileStore.Service\\MobileStore.Service.csproj",
+        "projectUniqueName": "C:\\Users\\tai.phan\\source\\repos\\WebApi-CRUD\\WebApi_CRUD\\MobileStore.Service\\MobileStore.Service.csproj",
         "projectName": "MobileStore.Service",
-        "projectPath": "D:\\Git\\MobileStore_CRUD\\MobileStore.Service\\MobileStore.Service.csproj",
-        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "D:\\Git\\MobileStore_CRUD\\MobileStore.Service\\obj\\",
+        "projectPath": "C:\\Users\\tai.phan\\source\\repos\\WebApi-CRUD\\WebApi_CRUD\\MobileStore.Service\\MobileStore.Service.csproj",
+        "packagesPath": "C:\\Users\\tai.phan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tai.phan\\source\\repos\\WebApi-CRUD\\WebApi_CRUD\\MobileStore.Service\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\tai.phan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -174,8 +174,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "D:\\Git\\MobileStore_CRUD\\MobileStore.Repository\\MobileStore.Domain.csproj": {
-                "projectPath": "D:\\Git\\MobileStore_CRUD\\MobileStore.Repository\\MobileStore.Domain.csproj"
+              "C:\\Users\\tai.phan\\source\\repos\\WebApi-CRUD\\WebApi_CRUD\\MobileStore.Repository\\MobileStore.Domain.csproj": {
+                "projectPath": "C:\\Users\\tai.phan\\source\\repos\\WebApi-CRUD\\WebApi_CRUD\\MobileStore.Repository\\MobileStore.Domain.csproj"
               }
             }
           }
@@ -204,21 +204,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Git\\MobileStore_CRUD\\MobileStore\\MobileStore.csproj": {
+    "C:\\Users\\tai.phan\\source\\repos\\WebApi-CRUD\\WebApi_CRUD\\MobileStore\\MobileStore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Git\\MobileStore_CRUD\\MobileStore\\MobileStore.csproj",
+        "projectUniqueName": "C:\\Users\\tai.phan\\source\\repos\\WebApi-CRUD\\WebApi_CRUD\\MobileStore\\MobileStore.csproj",
         "projectName": "MobileStore",
-        "projectPath": "D:\\Git\\MobileStore_CRUD\\MobileStore\\MobileStore.csproj",
-        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "D:\\Git\\MobileStore_CRUD\\MobileStore\\obj\\",
+        "projectPath": "C:\\Users\\tai.phan\\source\\repos\\WebApi-CRUD\\WebApi_CRUD\\MobileStore\\MobileStore.csproj",
+        "packagesPath": "C:\\Users\\tai.phan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tai.phan\\source\\repos\\WebApi-CRUD\\WebApi_CRUD\\MobileStore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\tai.phan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -232,8 +232,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\Git\\MobileStore_CRUD\\MobileStore.Service\\MobileStore.Service.csproj": {
-                "projectPath": "D:\\Git\\MobileStore_CRUD\\MobileStore.Service\\MobileStore.Service.csproj"
+              "C:\\Users\\tai.phan\\source\\repos\\WebApi-CRUD\\WebApi_CRUD\\MobileStore.Service\\MobileStore.Service.csproj": {
+                "projectPath": "C:\\Users\\tai.phan\\source\\repos\\WebApi-CRUD\\WebApi_CRUD\\MobileStore.Service\\MobileStore.Service.csproj"
               }
             }
           }
@@ -271,7 +271,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
